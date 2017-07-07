@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71478" started-at="2017-07-07T02:19:50Z" finished-at="2017-07-07T02:21:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71478" started-at="2017-07-07T02:19:50Z" finished-at="2017-07-07T02:21:02Z">
+      <class name="catchPayment.Catch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:catchPayment.Catch@26653222]" name="setUp" is-config="true" duration-ms="3591" started-at="2017-07-07T12:19:50Z" finished-at="2017-07-07T12:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:catchPayment.Catch@26653222]" name="testUntitled" duration-ms="66945" started-at="2017-07-07T12:19:54Z" finished-at="2017-07-07T12:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:catchPayment.Catch@26653222]" name="tearDown" is-config="true" duration-ms="926" started-at="2017-07-07T12:21:01Z" finished-at="2017-07-07T12:21:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- catchPayment.Catch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
