@@ -103,6 +103,7 @@ public class Catch {
 		String ActualResult = explicitWaitElement(By.xpath("//*[@id='flash-messages']/div")).getText();
 		String actualResultFinal = ActualResult.substring(2);
 		Assert.assertEquals(actualResultFinal, ExpectedResult,  "The test case failed");
+		System.out.println("Test Case completed successfully");
 	}
 
 	
